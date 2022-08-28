@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="https://imgur.com/a/VwvDcTe" />
+![Imgur](https://imgur.com/1PWgTNW)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...
