@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidPreWork</string>
+    <string name="lyndi_intro">Hello, my name is Lyndi. I love playing tennis and mobile development!</string>
+    <string name="button_text">Say \'Hello\'</string>
+    <string name="hello_toast">Hello to you, too!</string>
+</resources>
